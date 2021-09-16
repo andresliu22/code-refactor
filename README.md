@@ -1,5 +1,3 @@
-# code-refactor
-
 # 3 Important Topics to improve your site and get more users
 
 * Search Engine Optimization
@@ -21,3 +19,4 @@
 
 * Cost Management
 [For more info](./assets/images/screenshots/cost-management-screenshot.PNG)
+
