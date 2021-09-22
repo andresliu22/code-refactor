@@ -4,10 +4,8 @@
 
 * Search Engine Optimization
 [For more info](./assets/images/screenshots/seo.PNG)
-
 * Online Reputation Management
 [For more info](./assets/images/screenshots/orm.PNG)
-
 * Social Media Marketing
 [For more info](./assets/images/screenshots/smm.PNG)
 
@@ -15,10 +13,8 @@
 
 * Lead Generation
 [For more info](./assets/images/screenshots/lead-generation-screenshot.PNG)
-
 * Brand Awareness
 [For more info](./assets/images/screenshots/brand-awareness-screenshot.PNG)
-
 * Cost Management
 [For more info](./assets/images/screenshots/cost-management-screenshot.PNG)
 
@@ -36,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-* Fetch the project to get your own copy of the repository.
+* Fetch the project to get your own copy of the repository
 * Clone the repository
 * Make your changes and testing
 * Deploy on github by going to the repository and on settings in the pages tab save the source to main for deployment and demo.
