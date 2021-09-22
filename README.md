@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-* Fetch the project to get your own copy of the repository
+* Fork the project to get your own copy of the repository
 * Clone the repository
 * Make your changes and testing
 * Deploy on github by going to the repository and on settings in the pages tab save the source to main for deployment and demo.
